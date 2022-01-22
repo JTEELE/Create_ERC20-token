@@ -20,6 +20,10 @@
 <img src="Images/ERC20.jfif" align="right" width="200px"/>
 <br clear="center"/>
 
+#
+<img src="Images/NFT.jfif" align="right" width="200px"/>
+<br clear="center"/>
+
 ## Resources:
 1. Northwestern NPS:
 https://sps.northwestern.edu/
